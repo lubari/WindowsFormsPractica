@@ -117,33 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="btnRun.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
-        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAATrzAAE68wEXCzLMAAAAB3RJ
-        TUUH5wwMFhsLbvwe8wAAARdJREFUWEftlT1KBEEYRMfVc7iBXsFzmBgYa+CiiCIshgaeQr2IeAYTb7Ao
-        gn+xse+5/YGButO9M4tCFzzo7pmvqpiBmabqP2sZ1hKuF6oVOIRJwrVnC5FBx/AE53CW1p71XiLCn2Gc
-        9j7+OOu1xHfhoa/XeinxW3iotxJtwkOdl8gJD3VWoiQ8NHcJB47gDU7TPlfOnMAr6NXaI8Lf4R6GUCpn
-        9dCrVQlv8JE9wh34lVuFUjmrxy3oOfN17MALeKONbT9vAT30OgC9d+FHbcEeLME+dFVAL2X49nQ5Wzbu
-        qoBe2aoFaoFaoBYYgd/v9c9dmZzVQ69sbYDtb+ACrjJx5hoeQK9sDWATSsKDS/D/olfVX1TTfAB7DWjP
-        AAZwFgAAAABJRU5ErkJggg==
-</value>
-  </data>
-  <metadata name="toolStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
-  <data name="toolStripButton1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGSSURBVFhH7da9ShxRGIfxjSYiGIukUhAVrSwNJH20VAhq
-        oaKFFkYkYJUU+SBFriCFoiE2EUXQTgT1CrwBQQS/0MQvyD34PMMZCGGK3dmZQGT+8INz3vMeGdk5Z7dU
-        5H9OPVoCx/8sjzGBXZwGjifRiFzzBIu4xQpmg9VQW4I9ueUjfmIQtRZCHA/gF75YyCMdOMbnaJacD7DH
-        3szjf3iF7miWHNfssTfzTOMcbdEsOa7Z8zqaZZyXuEFvNEtOD+yxN/M8xR7W0GDhr1j7AXvszSUj+I05
-        tKImcPwVro0itzzEFE5whA2sh7E11+zJNQ/QBY/c9+BTqLl2f/MITXgG3/YxvAnG4elwzZ46ZBKv2Od4
-        j00c4jo4g2dejuO6PVvwI3qBP6/siuOdf4kDLOMd+uEfbodvvxz7oH14C4/jPtw7jNRZwA6aUckLZq8f
-        hXu/WUib+C1Pm2r3Fw9QPEBpHtvoRHzkyuUeT4G/IVPnFS7geY4vnXK5x9+PQ0gdv2q9YGYQX7vlco97
-        q7oJi9z3lEp34GpmAWgb4ssAAAAASUVORK5CYII=
-</value>
-  </data>
 </root>

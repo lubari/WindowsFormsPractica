@@ -85,5 +85,11 @@ namespace PracticaWindowsForms
         {
 
         }
+
+        private void toolStripButton1_Click(object sender, EventArgs e)
+        {
+            frmDatosPersonales frmDatosPersonales = new frmDatosPersonales();
+            frmDatosPersonales.ShowDialog();
+        }
     }
 }
